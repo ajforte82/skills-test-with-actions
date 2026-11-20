@@ -1,4 +1,4 @@
-name: Python Package
+name: Python Package using Conda
 
 on:
   pull_request:
